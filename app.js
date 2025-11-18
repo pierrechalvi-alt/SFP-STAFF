@@ -2,7 +2,7 @@
 // Version améliorée "style FIFA" avec sections cliquables, graphiques canvas
 // et organisation des blocs : Profil physique, GPS, Blessures, Tests, Zones anatomiques, Rééducation.
 
-// = ================= ETAT GLOBAL ==================
+// ================= ETAT GLOBAL =================
 
 let currentPlayerId = null;
 let selectedSegment = "Global";
